@@ -2,10 +2,10 @@
 
 Quantitative Finance Specialist & Data Analyst focused on Quantitative Solutions, Automation, and Financial Engineering.
 
-- 🔭 **Currently focusing on:** Quantitative financial modeling, derivatives analysis (B3), and data architecture with Python and SQL.
+- 🔭 **Currently focusing on:** Quantitative financial modeling, derivatives analysis, and data architecture with Python and SQL.
 - 🛠️ **Tech Stack:** Python (Pandas, NumPy, Flask, Django, Dash, Plotly), SQL (SQL Server, SQLite), VBA, and Power BI.
-- 🎓 **Education:** B.S. in Economics | MBA in Corporate Finance | Postgraduate Specialization in Financial Engineering (Poli-USP).
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/wesleyfmelo)
+- 🎓 **Education:** B.S. in Economics | MBA in Corporate Finance | Postgraduate Specialization in Financial Engineering.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/wesley-melo-9a29806b)
 
 ---
 
