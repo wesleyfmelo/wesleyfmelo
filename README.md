@@ -2,7 +2,7 @@
 
 Engenheiro Financeiro & Analista de Dados focado em Soluções Quantitativas, Automação e BI.
 
-- 🔭 **Atualmente focado em:** Modelagem financeira quantitativa, análise de derivativos (B3) e arquitetura de dados com Python e SQL.
+- 🔭 **Atualmente focado em:** Modelagem financeira quantitativa, análise de derivativos e arquitetura de dados com Python e SQL.
 - 🛠️ **Tech Stack:** Python (Pandas, NumPy, Flask, Django, Dash, Plotly), SQL (SQL Server, SQLite), VBA e Power BI.
 - 🎓 **Formação:** Graduação em Economia | MBA em Finanças Corporativas.
 - 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/wesley-melo-9a29806b)
