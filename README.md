@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, sou o Wesley Melo 👋
 
-<!--
-**wesleyfmelo/wesleyfmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro Financeiro & Analista de Dados focado em Soluções Quantitativas, Automação e BI.
 
-Here are some ideas to get you started:
+- 🔭 **Atualmente focado em:** Modelagem financeira quantitativa, análise de derivativos (B3) e arquitetura de dados com Python e SQL.
+- 🛠️ **Tech Stack:** Python (Pandas, NumPy, Flask, Django, Dash, Plotly), SQL (SQL Server, SQLite), VBA e Power BI.
+- 🎓 **Formação:** Graduação em Economia | MBA em Finanças Corporativas.
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/wesley-melo-9a29806b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📌 Projetos em Destaque
+*(Em breve repositórios organizados)*
