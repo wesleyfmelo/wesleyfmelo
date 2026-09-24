@@ -1,15 +1,15 @@
-# Olá, sou o Wesley Melo 👋
+# Hi, I'm Wesley Melo 👋
 
-Engenheiro Financeiro & Analista de Dados focado em Soluções Quantitativas, Automação e BI.
+Quantitative Finance Specialist & Data Analyst focused on Quantitative Solutions, Automation, and Financial Engineering.
 
-- 🔭 **Atualmente focado em:** Modelagem financeira quantitativa, análise de derivativos e arquitetura de dados com Python e SQL.
-- 🛠️ **Tech Stack:** Python (Pandas, NumPy, Flask, Django, Dash, Plotly), SQL (SQL Server, SQLite), VBA e Power BI.
-- 🎓 **Formação:** Graduação em Economia | MBA em Finanças Corporativas.
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/wesley-melo-9a29806b)
+- 🔭 **Currently focusing on:** Quantitative financial modeling, derivatives analysis (B3), and data architecture with Python and SQL.
+- 🛠️ **Tech Stack:** Python (Pandas, NumPy, Flask, Django, Dash, Plotly), SQL (SQL Server, SQLite), VBA, and Power BI.
+- 🎓 **Education:** B.S. in Economics | MBA in Corporate Finance | Postgraduate Specialization in Financial Engineering (Poli-USP).
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/wesleyfmelo)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -20,5 +20,5 @@ Engenheiro Financeiro & Analista de Dados focado em Soluções Quantitativas, Au
 
 ---
 
-### 📌 Projetos em Destaque
-*(Em breve repositórios organizados)*
+### 📌 Featured Projects
+*(Repositories currently being updated)*
